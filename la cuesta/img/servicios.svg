@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.336 62.336">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6e8811;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #efefe7;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="servicios" transform="translate(-795 -1108.664)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="62.336" height="62.336" transform="translate(795 1108.664)"/>
+    <g id="basic_lightbulb" transform="translate(804 1120.78)">
+      <path id="Path_7" data-name="Path 7" class="cls-2" d="M16.689,23.185v2.844H29.2V23.124a11.9,11.9,0,1,0-12.515.061Z" transform="translate(0 0)"/>
+      <line id="Line_11" data-name="Line 11" class="cls-2" x1="1.707" y1="11.377" transform="translate(18.964 14.652)"/>
+      <line id="Line_12" data-name="Line 12" class="cls-2" y1="11.377" x2="1.707" transform="translate(25.221 14.652)"/>
+      <path id="Path_8" data-name="Path 8" class="cls-2" d="M25,26l2.275,1.707L28.982,26l1.707,1.707L32.964,26" transform="translate(-6.036 -10.779)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-2" width="12.515" height="3.413" transform="translate(16.689 26.029)"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-2" width="10.239" height="3.413" transform="translate(17.826 29.443)"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-2" width="7.964" height="3.413" transform="translate(18.964 32.856)"/>
+    </g>
+  </g>
+</svg>

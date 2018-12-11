@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.336 62.336">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6e8811;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #efefe7;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="lotes" transform="translate(-219 -1108.664)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="62.336" height="62.336" transform="translate(219 1108.664)"/>
+    <g id="software_crop" transform="translate(234 1123.625)">
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M0,11H27.076V38.076" transform="translate(0 -5.38)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-2" d="M11,0V27.076H38.076" transform="translate(-5.38)"/>
+      <line id="Line_1" data-name="Line 1" class="cls-2" y1="26.565" x2="26.565" transform="translate(5.62 0.511)"/>
+    </g>
+  </g>
+</svg>

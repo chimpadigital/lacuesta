@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.336 62.336">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6e8811;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #efefe7;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 3 2;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Zona" transform="translate(-1083 -1108.664)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="62.336" height="62.336" transform="translate(1083 1108.664)"/>
+    <g id="software_scale_expand" transform="translate(1099 1124.76)">
+      <path id="Path_9" data-name="Path 9" class="cls-2" d="M1,13.733V1H30.24V30.24H17.506"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-3" width="14.148" height="14.148" transform="translate(1 16.091)"/>
+      <path id="Path_10" data-name="Path 10" class="cls-3" d="M51.188,12.188V7H46" transform="translate(-24.778 -2.17)"/>
+      <line id="Line_13" data-name="Line 13" class="cls-3" x1="7.546" y2="7.546" transform="translate(18.864 4.83)"/>
+    </g>
+  </g>
+</svg>

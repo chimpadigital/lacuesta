@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.226 19.919">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #879500;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="mensaje" class="cls-1" d="M10.613,18.024h9.613V5H1V18.024H6.272v3.721Z" transform="translate(0 -4)"/>
+</svg>
